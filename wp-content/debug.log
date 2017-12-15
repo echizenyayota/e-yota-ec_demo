@@ -1,1 +1,2 @@
 [15-Dec-2017 06:00:45 UTC] PHP Notice:  Undefined offset: 1 in /var/www/wordpress/wp-admin/includes/dashboard.php on line 1227
+[15-Dec-2017 06:25:50 UTC] PHP Notice:  Undefined index: stripe_create_account in /var/www/wordpress/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-setup-wizard.php on line 1285
